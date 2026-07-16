@@ -173,8 +173,8 @@ Ideas for future iterations of this learning project:
 
 Built by **Deeblr** — a personal project made to learn and gain hands-on experience with full-stack and realtime web development.
 
-[![Twitter](https://img.shields.io/badge/Twitter-@deebllr-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_username)
-[![Discord](https://img.shields.io/badge/Discord-deeblr1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your_username)
+[![Twitter](https://img.shields.io/badge/X-@deebllr-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deebllr)
+[![Discord](https://img.shields.io/badge/Discord-deeblr1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deeblr1)
 
 ## 📄 License
 
