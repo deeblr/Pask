@@ -31,10 +31,9 @@
 - [Roadmap](#-roadmap)
 - [Author](#-author)
 - [License](#-license)
+- ## Overview
 
-## Overview
-
-PASK re-creates the core experience of a modern chat platform — servers, channels, DMs, voice, roles, and bots — from the ground up. It exists as a hands-on exercise in wiring together the pieces that make realtime apps tick: socket architecture, permission systems, WebRTC signaling, and a token-based bot gateway, all on a standard MERN foundation.
+PASK re-creates- the core experience of a modern chat platform — servers, channels, DMs, voice, roles, and bots — from the ground up. It exists as a hands-on exercise in wiring together the pieces that make realtime apps tick: socket architecture, permission systems, WebRTC signaling, and a token-based bot gateway, all on a standard MERN foundation.
 
 ## ✨ Features
 
